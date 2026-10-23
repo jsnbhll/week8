@@ -1,0 +1,11 @@
+29.35 only twenty-nine dollars and thirty-five cents
+50.01 only fifty dollars and one cent
+0.00 only zero dollars and zero cents
+1.01 only one dollar and one cent
+20.20 only twenty dollars and twenty cents
+99.99 only ninety-nine dollars and ninety-nine cents
+100.00 only one hundred dollars and zero cents
+29.35 only twenty-nine dollars and thirty-four cents
+50.01 only fifty dollars and two cents
+1.01 only one dollars and one cent
+100.01 only one hundred dollars and one cent
